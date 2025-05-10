@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @umaima50
 -     full stack web developer 
-- ![readme](https://github.com/user-attachments/assets/f3bd826c-7bce-4e6f-86f9-469165832572)
+-     ![picreadme](https://github.com/user-attachments/assets/74466de1-823c-40d2-8421-7faf2b23d434)
+
 
 - 👀 I’m interested in Web Development, Mobile Web Development.
 - 🌱 I’m currently learning C#
